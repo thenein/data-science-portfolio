@@ -1,2 +1,6 @@
 # .gitignore
 .ipynb_checkpoints/
+# .gitignore
+*.doc
+*.docx
+*.mp4
