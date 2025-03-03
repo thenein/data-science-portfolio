@@ -1,0 +1,21 @@
+pdf_report_date,airport,category,subcategory,year_month,count,clean_cat,clean_subcat,clean_cat_status,clean_subcat_status,is_category_prefix_removed
+2019-02,ABE,Hazardous Materials Safety,General,2015-01,0.0,Hazardous Materials Safety,General,original,original,FALSE
+2019-02,ABE,Mishandling of Passenger Property,Damaged/Missing Items--Checked Baggage,2015-01,0.0,Mishandling of Passenger Property,*Damaged/Missing Items--Checked Baggage,original,original,FALSE
+2019-02,ABE,Hazardous Materials Safety,General,2015-02,0.0,Hazardous Materials Safety,General,original,original,FALSE
+2019-02,ABE,Mishandling of Passenger Property,Damaged/Missing Items--Checked Baggage,2015-02,0.0,Mishandling of Passenger Property,*Damaged/Missing Items--Checked Baggage,original,original,FALSE
+2019-02,ABE,Hazardous Materials Safety,General,2015-03,0.0,Hazardous Materials Safety,General,original,original,FALSE
+2019-02,ABE,Mishandling of Passenger Property,Damaged/Missing Items--Checked Baggage,2015-03,0.0,Mishandling of Passenger Property,*Damaged/Missing Items--Checked Baggage,original,original,FALSE
+2019-02,ABE,Hazardous Materials Safety,General,2015-04,0.0,Hazardous Materials Safety,General,original,original,FALSE
+2019-02,ABE,Mishandling of Passenger Property,Damaged/Missing Items--Checked Baggage,2015-04,0.0,Mishandling of Passenger Property,*Damaged/Missing Items--Checked Baggage,original,original,FALSE
+2019-02,ABE,Hazardous Materials Safety,General,2015-05,1.0,Hazardous Materials Safety,General,original,original,FALSE
+2019-02,ABE,Mishandling of Passenger Property,Damaged/Missing Items--Checked Baggage,2015-05,1.0,Mishandling of Passenger Property,*Damaged/Missing Items--Checked Baggage,original,original,FALSE
+2019-02,ABE,Hazardous Materials Safety,General,2015-06,0.0,Hazardous Materials Safety,General,original,original,FALSE
+2019-02,ABE,Mishandling of Passenger Property,Damaged/Missing Items--Checked Baggage,2015-06,1.0,Mishandling of Passenger Property,*Damaged/Missing Items--Checked Baggage,original,original,FALSE
+2019-02,ABE,Hazardous Materials Safety,General,2015-07,0.0,Hazardous Materials Safety,General,original,original,FALSE
+2019-02,ABE,Mishandling of Passenger Property,Damaged/Missing Items--Checked Baggage,2015-07,3.0,Mishandling of Passenger Property,*Damaged/Missing Items--Checked Baggage,original,original,FALSE
+2019-02,ABE,Hazardous Materials Safety,General,2015-08,0.0,Hazardous Materials Safety,General,original,original,FALSE
+2019-02,ABE,Mishandling of Passenger Property,Damaged/Missing Items--Checked Baggage,2015-08,0.0,Mishandling of Passenger Property,*Damaged/Missing Items--Checked Baggage,original,original,FALSE
+2019-02,ABE,Hazardous Materials Safety,General,2015-09,0.0,Hazardous Materials Safety,General,original,original,FALSE
+2019-02,ABE,Mishandling of Passenger Property,Damaged/Missing Items--Checked Baggage,2015-09,2.0,Mishandling of Passenger Property,*Damaged/Missing Items--Checked Baggage,original,original,FALSE
+2019-02,ABE,Civil Rights,National Origin,2015-10,0.0,Civil Rights,National Origin,original,original,FALSE
+2019-02,ABE,Customer Service,TSO,2015-10,0.0,Customer Service,TSO,original,original,FALSE

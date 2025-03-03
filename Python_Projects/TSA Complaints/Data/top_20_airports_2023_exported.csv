@@ -1,0 +1,241 @@
+airport,airport_name,country_code,region_name,latitude,longitude,month,count
+ATL,Hartsfield-Jackson Atlanta International Airport,US,Georgia,33.6367,-84.4281,1,440
+ATL,Hartsfield-Jackson Atlanta International Airport,US,Georgia,33.6367,-84.4281,2,368
+ATL,Hartsfield-Jackson Atlanta International Airport,US,Georgia,33.6367,-84.4281,3,405
+ATL,Hartsfield-Jackson Atlanta International Airport,US,Georgia,33.6367,-84.4281,4,432
+ATL,Hartsfield-Jackson Atlanta International Airport,US,Georgia,33.6367,-84.4281,5,506
+ATL,Hartsfield-Jackson Atlanta International Airport,US,Georgia,33.6367,-84.4281,6,420
+ATL,Hartsfield-Jackson Atlanta International Airport,US,Georgia,33.6367,-84.4281,7,481
+ATL,Hartsfield-Jackson Atlanta International Airport,US,Georgia,33.6367,-84.4281,8,440
+ATL,Hartsfield-Jackson Atlanta International Airport,US,Georgia,33.6367,-84.4281,9,483
+ATL,Hartsfield-Jackson Atlanta International Airport,US,Georgia,33.6367,-84.4281,10,532
+ATL,Hartsfield-Jackson Atlanta International Airport,US,Georgia,33.6367,-84.4281,11,412
+ATL,Hartsfield-Jackson Atlanta International Airport,US,Georgia,33.6367,-84.4281,12,395
+BOS,Logan International Airport,US,Massachusetts,42.3643,-71.0052,1,263
+BOS,Logan International Airport,US,Massachusetts,42.3643,-71.0052,2,283
+BOS,Logan International Airport,US,Massachusetts,42.3643,-71.0052,3,282
+BOS,Logan International Airport,US,Massachusetts,42.3643,-71.0052,4,306
+BOS,Logan International Airport,US,Massachusetts,42.3643,-71.0052,5,253
+BOS,Logan International Airport,US,Massachusetts,42.3643,-71.0052,6,274
+BOS,Logan International Airport,US,Massachusetts,42.3643,-71.0052,7,262
+BOS,Logan International Airport,US,Massachusetts,42.3643,-71.0052,8,261
+BOS,Logan International Airport,US,Massachusetts,42.3643,-71.0052,9,303
+BOS,Logan International Airport,US,Massachusetts,42.3643,-71.0052,10,358
+BOS,Logan International Airport,US,Massachusetts,42.3643,-71.0052,11,245
+BOS,Logan International Airport,US,Massachusetts,42.3643,-71.0052,12,244
+DCA,Ronald Reagan Washington National Airport,US,Virginia,38.8522,-77.0378,1,137
+DCA,Ronald Reagan Washington National Airport,US,Virginia,38.8522,-77.0378,2,143
+DCA,Ronald Reagan Washington National Airport,US,Virginia,38.8522,-77.0378,3,204
+DCA,Ronald Reagan Washington National Airport,US,Virginia,38.8522,-77.0378,4,195
+DCA,Ronald Reagan Washington National Airport,US,Virginia,38.8522,-77.0378,5,174
+DCA,Ronald Reagan Washington National Airport,US,Virginia,38.8522,-77.0378,6,160
+DCA,Ronald Reagan Washington National Airport,US,Virginia,38.8522,-77.0378,7,159
+DCA,Ronald Reagan Washington National Airport,US,Virginia,38.8522,-77.0378,8,144
+DCA,Ronald Reagan Washington National Airport,US,Virginia,38.8522,-77.0378,9,205
+DCA,Ronald Reagan Washington National Airport,US,Virginia,38.8522,-77.0378,10,199
+DCA,Ronald Reagan Washington National Airport,US,Virginia,38.8522,-77.0378,11,151
+DCA,Ronald Reagan Washington National Airport,US,Virginia,38.8522,-77.0378,12,178
+DEN,Denver International Airport,US,Colorado,39.8617,-104.673,1,370
+DEN,Denver International Airport,US,Colorado,39.8617,-104.673,2,381
+DEN,Denver International Airport,US,Colorado,39.8617,-104.673,3,441
+DEN,Denver International Airport,US,Colorado,39.8617,-104.673,4,400
+DEN,Denver International Airport,US,Colorado,39.8617,-104.673,5,479
+DEN,Denver International Airport,US,Colorado,39.8617,-104.673,6,432
+DEN,Denver International Airport,US,Colorado,39.8617,-104.673,7,508
+DEN,Denver International Airport,US,Colorado,39.8617,-104.673,8,422
+DEN,Denver International Airport,US,Colorado,39.8617,-104.673,9,430
+DEN,Denver International Airport,US,Colorado,39.8617,-104.673,10,487
+DEN,Denver International Airport,US,Colorado,39.8617,-104.673,11,333
+DEN,Denver International Airport,US,Colorado,39.8617,-104.673,12,297
+DFW,Dallas/Fort Worth International Airport,US,Texas,32.8968,-97.038,1,259
+DFW,Dallas/Fort Worth International Airport,US,Texas,32.8968,-97.038,2,249
+DFW,Dallas/Fort Worth International Airport,US,Texas,32.8968,-97.038,3,357
+DFW,Dallas/Fort Worth International Airport,US,Texas,32.8968,-97.038,4,318
+DFW,Dallas/Fort Worth International Airport,US,Texas,32.8968,-97.038,5,317
+DFW,Dallas/Fort Worth International Airport,US,Texas,32.8968,-97.038,6,318
+DFW,Dallas/Fort Worth International Airport,US,Texas,32.8968,-97.038,7,263
+DFW,Dallas/Fort Worth International Airport,US,Texas,32.8968,-97.038,8,281
+DFW,Dallas/Fort Worth International Airport,US,Texas,32.8968,-97.038,9,264
+DFW,Dallas/Fort Worth International Airport,US,Texas,32.8968,-97.038,10,289
+DFW,Dallas/Fort Worth International Airport,US,Texas,32.8968,-97.038,11,268
+DFW,Dallas/Fort Worth International Airport,US,Texas,32.8968,-97.038,12,261
+DTW,Detroit Metro Wayne County Airport,US,Michigan,42.2125,-83.3533,1,167
+DTW,Detroit Metro Wayne County Airport,US,Michigan,42.2125,-83.3533,2,192
+DTW,Detroit Metro Wayne County Airport,US,Michigan,42.2125,-83.3533,3,205
+DTW,Detroit Metro Wayne County Airport,US,Michigan,42.2125,-83.3533,4,180
+DTW,Detroit Metro Wayne County Airport,US,Michigan,42.2125,-83.3533,5,208
+DTW,Detroit Metro Wayne County Airport,US,Michigan,42.2125,-83.3533,6,172
+DTW,Detroit Metro Wayne County Airport,US,Michigan,42.2125,-83.3533,7,158
+DTW,Detroit Metro Wayne County Airport,US,Michigan,42.2125,-83.3533,8,158
+DTW,Detroit Metro Wayne County Airport,US,Michigan,42.2125,-83.3533,9,180
+DTW,Detroit Metro Wayne County Airport,US,Michigan,42.2125,-83.3533,10,224
+DTW,Detroit Metro Wayne County Airport,US,Michigan,42.2125,-83.3533,11,188
+DTW,Detroit Metro Wayne County Airport,US,Michigan,42.2125,-83.3533,12,167
+EWR,Newark Liberty International Airport,US,New Jersey,40.6925,-74.1686,1,564
+EWR,Newark Liberty International Airport,US,New Jersey,40.6925,-74.1686,2,498
+EWR,Newark Liberty International Airport,US,New Jersey,40.6925,-74.1686,3,585
+EWR,Newark Liberty International Airport,US,New Jersey,40.6925,-74.1686,4,555
+EWR,Newark Liberty International Airport,US,New Jersey,40.6925,-74.1686,5,552
+EWR,Newark Liberty International Airport,US,New Jersey,40.6925,-74.1686,6,459
+EWR,Newark Liberty International Airport,US,New Jersey,40.6925,-74.1686,7,454
+EWR,Newark Liberty International Airport,US,New Jersey,40.6925,-74.1686,8,495
+EWR,Newark Liberty International Airport,US,New Jersey,40.6925,-74.1686,9,525
+EWR,Newark Liberty International Airport,US,New Jersey,40.6925,-74.1686,10,637
+EWR,Newark Liberty International Airport,US,New Jersey,40.6925,-74.1686,11,463
+EWR,Newark Liberty International Airport,US,New Jersey,40.6925,-74.1686,12,512
+IAD,Washington Dulles International Airport,US,Virginia,38.9445,-77.4558,1,197
+IAD,Washington Dulles International Airport,US,Virginia,38.9445,-77.4558,2,150
+IAD,Washington Dulles International Airport,US,Virginia,38.9445,-77.4558,3,184
+IAD,Washington Dulles International Airport,US,Virginia,38.9445,-77.4558,4,199
+IAD,Washington Dulles International Airport,US,Virginia,38.9445,-77.4558,5,218
+IAD,Washington Dulles International Airport,US,Virginia,38.9445,-77.4558,6,192
+IAD,Washington Dulles International Airport,US,Virginia,38.9445,-77.4558,7,187
+IAD,Washington Dulles International Airport,US,Virginia,38.9445,-77.4558,8,174
+IAD,Washington Dulles International Airport,US,Virginia,38.9445,-77.4558,9,207
+IAD,Washington Dulles International Airport,US,Virginia,38.9445,-77.4558,10,208
+IAD,Washington Dulles International Airport,US,Virginia,38.9445,-77.4558,11,139
+IAD,Washington Dulles International Airport,US,Virginia,38.9445,-77.4558,12,164
+IAH,George Bush Intercontinental Airport,US,Texas,29.9844,-95.3414,1,228
+IAH,George Bush Intercontinental Airport,US,Texas,29.9844,-95.3414,2,260
+IAH,George Bush Intercontinental Airport,US,Texas,29.9844,-95.3414,3,301
+IAH,George Bush Intercontinental Airport,US,Texas,29.9844,-95.3414,4,292
+IAH,George Bush Intercontinental Airport,US,Texas,29.9844,-95.3414,5,330
+IAH,George Bush Intercontinental Airport,US,Texas,29.9844,-95.3414,6,281
+IAH,George Bush Intercontinental Airport,US,Texas,29.9844,-95.3414,7,245
+IAH,George Bush Intercontinental Airport,US,Texas,29.9844,-95.3414,8,260
+IAH,George Bush Intercontinental Airport,US,Texas,29.9844,-95.3414,9,293
+IAH,George Bush Intercontinental Airport,US,Texas,29.9844,-95.3414,10,276
+IAH,George Bush Intercontinental Airport,US,Texas,29.9844,-95.3414,11,205
+IAH,George Bush Intercontinental Airport,US,Texas,29.9844,-95.3414,12,223
+JFK,John F. Kennedy International Airport,US,New York,40.6397,-73.7789,1,424
+JFK,John F. Kennedy International Airport,US,New York,40.6397,-73.7789,2,393
+JFK,John F. Kennedy International Airport,US,New York,40.6397,-73.7789,3,464
+JFK,John F. Kennedy International Airport,US,New York,40.6397,-73.7789,4,377
+JFK,John F. Kennedy International Airport,US,New York,40.6397,-73.7789,5,389
+JFK,John F. Kennedy International Airport,US,New York,40.6397,-73.7789,6,398
+JFK,John F. Kennedy International Airport,US,New York,40.6397,-73.7789,7,383
+JFK,John F. Kennedy International Airport,US,New York,40.6397,-73.7789,8,364
+JFK,John F. Kennedy International Airport,US,New York,40.6397,-73.7789,9,384
+JFK,John F. Kennedy International Airport,US,New York,40.6397,-73.7789,10,471
+JFK,John F. Kennedy International Airport,US,New York,40.6397,-73.7789,11,358
+JFK,John F. Kennedy International Airport,US,New York,40.6397,-73.7789,12,435
+LAS,Harry Reid International Airport,US,Nevada,36.0801,-115.152,1,208
+LAS,Harry Reid International Airport,US,Nevada,36.0801,-115.152,2,223
+LAS,Harry Reid International Airport,US,Nevada,36.0801,-115.152,3,271
+LAS,Harry Reid International Airport,US,Nevada,36.0801,-115.152,4,226
+LAS,Harry Reid International Airport,US,Nevada,36.0801,-115.152,5,232
+LAS,Harry Reid International Airport,US,Nevada,36.0801,-115.152,6,256
+LAS,Harry Reid International Airport,US,Nevada,36.0801,-115.152,7,194
+LAS,Harry Reid International Airport,US,Nevada,36.0801,-115.152,8,199
+LAS,Harry Reid International Airport,US,Nevada,36.0801,-115.152,9,241
+LAS,Harry Reid International Airport,US,Nevada,36.0801,-115.152,10,297
+LAS,Harry Reid International Airport,US,Nevada,36.0801,-115.152,11,217
+LAS,Harry Reid International Airport,US,Nevada,36.0801,-115.152,12,201
+LAX,Los Angeles International Airport,US,California,33.9425,-118.408,1,324
+LAX,Los Angeles International Airport,US,California,33.9425,-118.408,2,299
+LAX,Los Angeles International Airport,US,California,33.9425,-118.408,3,393
+LAX,Los Angeles International Airport,US,California,33.9425,-118.408,4,398
+LAX,Los Angeles International Airport,US,California,33.9425,-118.408,5,432
+LAX,Los Angeles International Airport,US,California,33.9425,-118.408,6,414
+LAX,Los Angeles International Airport,US,California,33.9425,-118.408,7,416
+LAX,Los Angeles International Airport,US,California,33.9425,-118.408,8,379
+LAX,Los Angeles International Airport,US,California,33.9425,-118.408,9,362
+LAX,Los Angeles International Airport,US,California,33.9425,-118.408,10,451
+LAX,Los Angeles International Airport,US,California,33.9425,-118.408,11,292
+LAX,Los Angeles International Airport,US,California,33.9425,-118.408,12,377
+LGA,LaGuardia Airport,US,New York,40.775,-73.875,1,156
+LGA,LaGuardia Airport,US,New York,40.775,-73.875,2,169
+LGA,LaGuardia Airport,US,New York,40.775,-73.875,3,206
+LGA,LaGuardia Airport,US,New York,40.775,-73.875,4,226
+LGA,LaGuardia Airport,US,New York,40.775,-73.875,5,192
+LGA,LaGuardia Airport,US,New York,40.775,-73.875,6,165
+LGA,LaGuardia Airport,US,New York,40.775,-73.875,7,168
+LGA,LaGuardia Airport,US,New York,40.775,-73.875,8,189
+LGA,LaGuardia Airport,US,New York,40.775,-73.875,9,202
+LGA,LaGuardia Airport,US,New York,40.775,-73.875,10,253
+LGA,LaGuardia Airport,US,New York,40.775,-73.875,11,204
+LGA,LaGuardia Airport,US,New York,40.775,-73.875,12,197
+MCO,Orlando International Airport,US,Florida,28.4294,-81.309,1,403
+MCO,Orlando International Airport,US,Florida,28.4294,-81.309,2,406
+MCO,Orlando International Airport,US,Florida,28.4294,-81.309,3,482
+MCO,Orlando International Airport,US,Florida,28.4294,-81.309,4,407
+MCO,Orlando International Airport,US,Florida,28.4294,-81.309,5,410
+MCO,Orlando International Airport,US,Florida,28.4294,-81.309,6,330
+MCO,Orlando International Airport,US,Florida,28.4294,-81.309,7,350
+MCO,Orlando International Airport,US,Florida,28.4294,-81.309,8,298
+MCO,Orlando International Airport,US,Florida,28.4294,-81.309,9,319
+MCO,Orlando International Airport,US,Florida,28.4294,-81.309,10,388
+MCO,Orlando International Airport,US,Florida,28.4294,-81.309,11,317
+MCO,Orlando International Airport,US,Florida,28.4294,-81.309,12,291
+MIA,Miami International Airport,US,Florida,25.7932,-80.2906,1,248
+MIA,Miami International Airport,US,Florida,25.7932,-80.2906,2,226
+MIA,Miami International Airport,US,Florida,25.7932,-80.2906,3,244
+MIA,Miami International Airport,US,Florida,25.7932,-80.2906,4,217
+MIA,Miami International Airport,US,Florida,25.7932,-80.2906,5,218
+MIA,Miami International Airport,US,Florida,25.7932,-80.2906,6,175
+MIA,Miami International Airport,US,Florida,25.7932,-80.2906,7,195
+MIA,Miami International Airport,US,Florida,25.7932,-80.2906,8,196
+MIA,Miami International Airport,US,Florida,25.7932,-80.2906,9,180
+MIA,Miami International Airport,US,Florida,25.7932,-80.2906,10,241
+MIA,Miami International Airport,US,Florida,25.7932,-80.2906,11,194
+MIA,Miami International Airport,US,Florida,25.7932,-80.2906,12,185
+ORD,Chicago O'Hare International Airport,US,Illinois,41.9786,-87.9047,1,365
+ORD,Chicago O'Hare International Airport,US,Illinois,41.9786,-87.9047,2,346
+ORD,Chicago O'Hare International Airport,US,Illinois,41.9786,-87.9047,3,475
+ORD,Chicago O'Hare International Airport,US,Illinois,41.9786,-87.9047,4,420
+ORD,Chicago O'Hare International Airport,US,Illinois,41.9786,-87.9047,5,361
+ORD,Chicago O'Hare International Airport,US,Illinois,41.9786,-87.9047,6,383
+ORD,Chicago O'Hare International Airport,US,Illinois,41.9786,-87.9047,7,324
+ORD,Chicago O'Hare International Airport,US,Illinois,41.9786,-87.9047,8,348
+ORD,Chicago O'Hare International Airport,US,Illinois,41.9786,-87.9047,9,415
+ORD,Chicago O'Hare International Airport,US,Illinois,41.9786,-87.9047,10,419
+ORD,Chicago O'Hare International Airport,US,Illinois,41.9786,-87.9047,11,312
+ORD,Chicago O'Hare International Airport,US,Illinois,41.9786,-87.9047,12,340
+PHL,Philadelphia International Airport,US,Pennsylvania,39.8719,-75.2411,1,192
+PHL,Philadelphia International Airport,US,Pennsylvania,39.8719,-75.2411,2,213
+PHL,Philadelphia International Airport,US,Pennsylvania,39.8719,-75.2411,3,270
+PHL,Philadelphia International Airport,US,Pennsylvania,39.8719,-75.2411,4,220
+PHL,Philadelphia International Airport,US,Pennsylvania,39.8719,-75.2411,5,216
+PHL,Philadelphia International Airport,US,Pennsylvania,39.8719,-75.2411,6,198
+PHL,Philadelphia International Airport,US,Pennsylvania,39.8719,-75.2411,7,189
+PHL,Philadelphia International Airport,US,Pennsylvania,39.8719,-75.2411,8,176
+PHL,Philadelphia International Airport,US,Pennsylvania,39.8719,-75.2411,9,196
+PHL,Philadelphia International Airport,US,Pennsylvania,39.8719,-75.2411,10,214
+PHL,Philadelphia International Airport,US,Pennsylvania,39.8719,-75.2411,11,177
+PHL,Philadelphia International Airport,US,Pennsylvania,39.8719,-75.2411,12,199
+PHX,Phoenix Sky Harbor International Airport,US,Arizona,33.4343,-112.012,1,225
+PHX,Phoenix Sky Harbor International Airport,US,Arizona,33.4343,-112.012,2,201
+PHX,Phoenix Sky Harbor International Airport,US,Arizona,33.4343,-112.012,3,230
+PHX,Phoenix Sky Harbor International Airport,US,Arizona,33.4343,-112.012,4,267
+PHX,Phoenix Sky Harbor International Airport,US,Arizona,33.4343,-112.012,5,256
+PHX,Phoenix Sky Harbor International Airport,US,Arizona,33.4343,-112.012,6,221
+PHX,Phoenix Sky Harbor International Airport,US,Arizona,33.4343,-112.012,7,192
+PHX,Phoenix Sky Harbor International Airport,US,Arizona,33.4343,-112.012,8,184
+PHX,Phoenix Sky Harbor International Airport,US,Arizona,33.4343,-112.012,9,245
+PHX,Phoenix Sky Harbor International Airport,US,Arizona,33.4343,-112.012,10,269
+PHX,Phoenix Sky Harbor International Airport,US,Arizona,33.4343,-112.012,11,210
+PHX,Phoenix Sky Harbor International Airport,US,Arizona,33.4343,-112.012,12,238
+SEA,Seattle-Tacoma International Airport,US,Washington,47.449,-122.309,1,236
+SEA,Seattle-Tacoma International Airport,US,Washington,47.449,-122.309,2,246
+SEA,Seattle-Tacoma International Airport,US,Washington,47.449,-122.309,3,259
+SEA,Seattle-Tacoma International Airport,US,Washington,47.449,-122.309,4,309
+SEA,Seattle-Tacoma International Airport,US,Washington,47.449,-122.309,5,306
+SEA,Seattle-Tacoma International Airport,US,Washington,47.449,-122.309,6,391
+SEA,Seattle-Tacoma International Airport,US,Washington,47.449,-122.309,7,366
+SEA,Seattle-Tacoma International Airport,US,Washington,47.449,-122.309,8,371
+SEA,Seattle-Tacoma International Airport,US,Washington,47.449,-122.309,9,361
+SEA,Seattle-Tacoma International Airport,US,Washington,47.449,-122.309,10,371
+SEA,Seattle-Tacoma International Airport,US,Washington,47.449,-122.309,11,282
+SEA,Seattle-Tacoma International Airport,US,Washington,47.449,-122.309,12,277
+SFO,San Francisco International Airport,US,California,37.619,-122.375,1,257
+SFO,San Francisco International Airport,US,California,37.619,-122.375,2,258
+SFO,San Francisco International Airport,US,California,37.619,-122.375,3,299
+SFO,San Francisco International Airport,US,California,37.619,-122.375,4,301
+SFO,San Francisco International Airport,US,California,37.619,-122.375,5,346
+SFO,San Francisco International Airport,US,California,37.619,-122.375,6,340
+SFO,San Francisco International Airport,US,California,37.619,-122.375,7,316
+SFO,San Francisco International Airport,US,California,37.619,-122.375,8,283
+SFO,San Francisco International Airport,US,California,37.619,-122.375,9,298
+SFO,San Francisco International Airport,US,California,37.619,-122.375,10,333
+SFO,San Francisco International Airport,US,California,37.619,-122.375,11,239
+SFO,San Francisco International Airport,US,California,37.619,-122.375,12,260
