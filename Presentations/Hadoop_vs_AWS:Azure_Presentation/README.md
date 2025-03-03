@@ -1,4 +1,4 @@
-# Hadoop vs. AWS & Azure: A Comparative Analysis
+<h1 align="center">Hadoop vs. AWS & Azure: A Comparative Analysis</h1>
 
 ## Audience
 

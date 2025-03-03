@@ -1,4 +1,6 @@
-- **Netflix_Content_Performance_Analysis.pptx**: This presentation is designed for Netflix executives and content strategy teams. The audience is familiar with the data but requires actionable insights to guide content production and marketing decisions. The focus is on helping them analyze global trends in Netflix content performance across different categories and regions to optimize future content investments.
+<h1 align="center">Netflix Content Performance Analysis</h1>
+
+**Netflix_Content_Performance_Analysis**: This presentation is designed for Netflix executives and content strategy teams. The audience is familiar with the data but requires actionable insights to guide content production and marketing decisions. The focus is on helping them analyze global trends in Netflix content performance across different categories and regions to optimize future content investments.
 
 ### Audience
 

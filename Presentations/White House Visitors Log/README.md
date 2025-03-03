@@ -1,4 +1,4 @@
-# White House Visitor Logs Analysis
+<h1 align="center">White House Visitor Logs Analysis</h1>
 
 ## Audience
 
