@@ -12,6 +12,7 @@
 ## Essays and Articles:
 
 - [Big Data: Alive or Dead](./Essays_and_Articles/BigDataAliveorDead.pdf): An article that explores the current state of big data, discussing its evolution, current applications, and future trends. It examines whether big data is still a relevant and valuable asset in today's data-driven world.
+- [The Illusion of Reselling Custom IT Solutions](./Essays_and_Articles/The%20Illusion%20of%20Reselling%20Custom%20IT%20Solutions.pdf): An article that delves into the challenges and misconceptions of reselling custom IT solutions. It discusses the complexities involved, the potential pitfalls, and offers insights into more effective strategies for IT solution providers.
 
 ## Presentations:
 
