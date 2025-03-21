@@ -10,3 +10,10 @@
 ## Essays and Articles:
 
 - [Big Data: Alive or Dead](./Essays_and_Articles/BigDataAliveorDead.pdf): An article that explores the current state of big data, discussing its evolution, current applications, and future trends. It examines whether big data is still a relevant and valuable asset in today's data-driven world.
+
+## Presentations:
+
+- [Hadoop vs AWS/Azure](./Presentations/Hadoop_vs_AWS:Azure_Presentation/Hadoop_vs_Azure_AWS.pdf): A presentation that compares Hadoop with AWS and Azure, discussing their features, advantages, and use cases in big data processing and cloud computing.
+- [Netflix Data Analytics Key Insights for Strategic Growth](./Presentations/Netflix%20Key%20Insights/Netflix%20Data%20Analytics%20Key%20Insights%20for%20Strategic%20Growth.pdf): A presentation that provides key insights from Netflix's data analytics, focusing on strategies for growth and market expansion.
+
+- [White House Visitors Log](./Presentations/White%20House%20Visitors%20Log/White%20House%20Visitors%20Log.pdf): A presentation that analyzes the White House visitors log, providing insights into the frequency and nature of visits, and identifying key patterns and trends.
